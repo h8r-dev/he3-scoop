@@ -1,4 +1,4 @@
-# He3 client Scoop Bucket
+# Move to he3-app/he3-scoop
 
 [![Software License][ico-license]](LICENSE.md)
 [![Repo Size][ico-github-repo-size]][link-github-repo-size]
